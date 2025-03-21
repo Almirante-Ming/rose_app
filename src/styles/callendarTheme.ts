@@ -1,4 +1,4 @@
-export const callendar_theme = {
+export const calendarTheme = {
     backgroundColor: '#A80742',
     calendarBackground: '#810e13',
     textSectionTitleColor: '#FFFFFF',
@@ -12,4 +12,4 @@ export const callendar_theme = {
     arrowColor: '#FFA500',
     monthTextColor: '#FFFFFF',
     indicatorColor: '#FFA500',
-};
+  };
